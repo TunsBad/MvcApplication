@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0AA67864-4699-40B8-B5CF-A55FB0699C8A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcApplication/ViewModels/RestaurantEditViewModel.cs">
+    <Files>
+      <File FileName="MvcApplication/Startup.cs" Line="83" Column="1" />
+      <File FileName="MvcApplication/Controllers/AboutController.cs" Line="10" Column="1" />
+      <File FileName="MvcApplication/Controllers/AccountController.cs" Line="3" Column="21" />
+      <File FileName="MvcApplication/Controllers/HomeController.cs" Line="5" Column="21" />
+      <File FileName="MvcApplication/Entities/Restaurant.cs" Line="24" Column="1" />
+      <File FileName="MvcApplication/Entities/User.cs" Line="3" Column="1" />
+      <File FileName="MvcApplication/Entities/DbContext.cs" Line="18" Column="1" />
+      <File FileName="MvcApplication/Middleware/ApplicationBuilderExtensions.cs" Line="26" Column="1" />
+      <File FileName="MvcApplication/Services/Greeter.cs" Line="30" Column="1" />
+      <File FileName="MvcApplication/Services/RestaurantData.cs" Line="86" Column="1" />
+      <File FileName="MvcApplication/ViewComponents/GreetingViewComponent.cs" Line="4" Column="25" />
+      <File FileName="MvcApplication/ViewComponents/LoginLogoutViewComponent.cs" Line="3" Column="25" />
+      <File FileName="MvcApplication/ViewModels/HomePageViewModel.cs" Line="12" Column="1" />
+      <File FileName="MvcApplication/ViewModels/LoginViewModel.cs" Line="3" Column="25" />
+      <File FileName="MvcApplication/ViewModels/RegisterUserViewModel.cs" Line="3" Column="25" />
+      <File FileName="MvcApplication/ViewModels/RestaurantEditViewModel.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MvcApplication PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
